@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="5" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-04-19T13:42:01 IST" name="Suite" finished-at="2026-04-19T13:42:01 IST" duration-ms="71">
+    <groups>
+    </groups>
+    <test started-at="2026-04-19T13:42:01 IST" name="Test" finished-at="2026-04-19T13:42:01 IST" duration-ms="71">
+      <class name="dummy.DummyTest">
+        <test-method signature="case11()[pri:0, instance:dummy.DummyTest@31304f14]" started-at="2026-04-19T13:42:01 IST" name="case11" finished-at="2026-04-19T13:42:01 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case11 -->
+        <test-method signature="case111()[pri:0, instance:dummy.DummyTest@31304f14]" started-at="2026-04-19T13:42:01 IST" name="case111" finished-at="2026-04-19T13:42:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case111 -->
+      </class> <!-- dummy.DummyTest -->
+      <class name="demo.SampleTest">
+        <test-method signature="case2()[pri:0, instance:demo.SampleTest@7c7b252e]" started-at="2026-04-19T13:42:01 IST" name="case2" finished-at="2026-04-19T13:42:01 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- case2 -->
+      </class> <!-- demo.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
