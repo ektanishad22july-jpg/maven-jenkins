@@ -13,4 +13,8 @@ public class SampleTest {
 	public void case22() {
 		System.out.println("22");
 	}
+	@Test
+	public void case222() {
+		System.out.println("222");
+	}
 }
